@@ -20,8 +20,8 @@ export default function Header() {
                 <ul className="flex justify-end mr-16 ml-[250px] gap-[20px] text-right">
                     <li><Link href="/">HOME</Link></li>
                     <li><Link href="/about">ABOUT</Link></li>
-                    <li><Link href="/register">REGISTER</Link></li>
-                    <li><Link href="/signup">SIGN UP</Link></li>
+                    <li><Link href="/userLogin">USER REGISTER</Link></li>
+                    <li><Link href="/signup">ADMIN SIGN UP</Link></li>
                 </ul>
             </nav>
         </header>
